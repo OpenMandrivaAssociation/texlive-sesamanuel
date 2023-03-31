@@ -1,6 +1,6 @@
 Name:		texlive-sesamanuel
 Version:	36613
-Release:	1
+Release:	2
 Summary:	Class and package for sesamath books or paper
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/sesamanuel
