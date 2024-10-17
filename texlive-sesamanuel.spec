@@ -3,7 +3,7 @@ Version:	36613
 Release:	2
 Summary:	Class and package for sesamath books or paper
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/sesamanuel
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/sesamanuel
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/sesamanuel.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/sesamanuel.doc.r%{version}.tar.xz
